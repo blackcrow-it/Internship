@@ -1,0 +1,8 @@
+1. split file log by minute <access.log -> temp.log>
+2. read file temp.log
+3. get list ip
+4. get list bot ip <temp.log -> bot.log>
+ - check bot
+  + bot real
+  + bot fake
+
