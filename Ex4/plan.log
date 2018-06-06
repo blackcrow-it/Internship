@@ -1,5 +1,5 @@
-1. Use Flask, Redis
-2. Use PFADD, PFCOUNT
+1. Use Flask, Redis (x)
+2. Use PFADD, PFCOUNT (x)
 3. Use nginx -> loadblancing
 4. Use Supervisord -> on/off -> redis, python, nginx
 5. Use apachebenchmark(ab) or mrk to > 2000 requests / second
