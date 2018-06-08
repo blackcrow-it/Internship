@@ -1,0 +1,105 @@
+2018-06-08 11:06:28,889 INFO RPC interface 'supervisor' initialized
+2018-06-08 11:06:28,889 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-08 11:06:28,889 INFO daemonizing the supervisord process
+2018-06-08 11:06:28,890 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-08 11:06:28,890 INFO supervisord started with pid 17558
+2018-06-08 11:06:29,894 INFO spawned: 'nginx' with pid 17559
+2018-06-08 11:06:29,897 INFO spawned: 'port_5001' with pid 17560
+2018-06-08 11:06:29,908 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:06:30,047 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:06:31,050 INFO spawned: 'nginx' with pid 17563
+2018-06-08 11:06:31,054 INFO spawned: 'port_5001' with pid 17564
+2018-06-08 11:06:31,062 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:06:31,145 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:06:33,150 INFO spawned: 'nginx' with pid 17566
+2018-06-08 11:06:33,154 INFO spawned: 'port_5001' with pid 17567
+2018-06-08 11:06:33,166 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:06:33,247 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:06:36,254 INFO spawned: 'nginx' with pid 17570
+2018-06-08 11:06:36,257 INFO spawned: 'port_5001' with pid 17571
+2018-06-08 11:06:36,266 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:06:36,335 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2018-06-08 11:06:36,352 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:06:37,353 INFO gave up: port_5001 entered FATAL state, too many start retries too quickly
+2018-06-08 11:07:32,234 INFO RPC interface 'supervisor' initialized
+2018-06-08 11:07:32,234 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-08 11:07:32,235 INFO daemonizing the supervisord process
+2018-06-08 11:07:32,235 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-08 11:07:32,235 INFO supervisord started with pid 17676
+2018-06-08 11:07:33,239 INFO spawned: 'nginx' with pid 17677
+2018-06-08 11:07:33,242 INFO spawned: 'port_5001' with pid 17678
+2018-06-08 11:07:33,254 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:07:33,338 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:07:34,341 INFO spawned: 'nginx' with pid 17680
+2018-06-08 11:07:34,345 INFO spawned: 'port_5001' with pid 17681
+2018-06-08 11:07:34,357 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:07:34,441 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:07:36,446 INFO spawned: 'nginx' with pid 17684
+2018-06-08 11:07:36,450 INFO spawned: 'port_5001' with pid 17685
+2018-06-08 11:07:36,463 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:07:36,541 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:07:39,882 INFO spawned: 'nginx' with pid 17689
+2018-06-08 11:07:39,886 INFO spawned: 'port_5001' with pid 17690
+2018-06-08 11:07:39,898 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:07:39,965 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2018-06-08 11:07:39,979 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:07:40,980 INFO gave up: port_5001 entered FATAL state, too many start retries too quickly
+2018-06-08 11:11:20,252 INFO RPC interface 'supervisor' initialized
+2018-06-08 11:11:20,252 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-08 11:11:20,253 INFO daemonizing the supervisord process
+2018-06-08 11:11:20,253 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-08 11:11:20,253 INFO supervisord started with pid 17791
+2018-06-08 11:11:21,257 INFO spawned: 'nginx' with pid 17792
+2018-06-08 11:11:21,261 INFO spawned: 'port_5001' with pid 17793
+2018-06-08 11:11:21,274 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:11:22,428 INFO spawned: 'nginx' with pid 17799
+2018-06-08 11:11:22,429 INFO success: port_5001 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-08 11:11:22,444 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:11:24,448 INFO spawned: 'nginx' with pid 17800
+2018-06-08 11:11:24,461 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:11:27,635 INFO spawned: 'nginx' with pid 17804
+2018-06-08 11:11:27,651 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:11:28,652 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2018-06-08 11:16:26,948 INFO waiting for port_5001 to die
+2018-06-08 11:16:26,963 INFO stopped: port_5001 (exit status 0)
+2018-06-08 11:16:37,745 INFO RPC interface 'supervisor' initialized
+2018-06-08 11:16:37,745 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-08 11:16:37,746 INFO daemonizing the supervisord process
+2018-06-08 11:16:37,746 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-08 11:16:37,746 INFO supervisord started with pid 18192
+2018-06-08 11:16:38,750 INFO spawned: 'nginx' with pid 18194
+2018-06-08 11:16:38,754 INFO spawned: 'port_5001' with pid 18195
+2018-06-08 11:16:38,763 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:16:38,845 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:16:39,848 INFO spawned: 'nginx' with pid 18197
+2018-06-08 11:16:39,851 INFO spawned: 'port_5001' with pid 18198
+2018-06-08 11:16:39,862 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:16:39,944 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:16:41,949 INFO spawned: 'nginx' with pid 18201
+2018-06-08 11:16:41,951 INFO spawned: 'port_5001' with pid 18202
+2018-06-08 11:16:41,958 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:16:42,085 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:16:45,090 INFO spawned: 'nginx' with pid 18206
+2018-06-08 11:16:45,094 INFO spawned: 'port_5001' with pid 18207
+2018-06-08 11:16:45,106 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:16:45,173 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2018-06-08 11:16:45,187 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:16:45,387 INFO gave up: port_5001 entered FATAL state, too many start retries too quickly
+2018-06-08 11:17:36,916 INFO RPC interface 'supervisor' initialized
+2018-06-08 11:17:36,917 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-08 11:17:36,917 INFO daemonizing the supervisord process
+2018-06-08 11:17:36,917 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-08 11:17:36,918 INFO supervisord started with pid 18265
+2018-06-08 11:17:37,922 INFO spawned: 'nginx' with pid 18266
+2018-06-08 11:17:37,925 INFO spawned: 'port_5001' with pid 18267
+2018-06-08 11:17:37,937 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:17:39,088 INFO spawned: 'nginx' with pid 18272
+2018-06-08 11:17:39,089 INFO success: port_5001 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-08 11:17:39,103 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:17:41,482 INFO spawned: 'nginx' with pid 18275
+2018-06-08 11:17:41,495 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:17:44,501 INFO spawned: 'nginx' with pid 18276
+2018-06-08 11:17:44,517 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:17:45,518 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2018-06-08 11:25:57,619 INFO waiting for port_5001 to die
+2018-06-08 11:25:57,640 INFO stopped: port_5001 (exit status 0)
