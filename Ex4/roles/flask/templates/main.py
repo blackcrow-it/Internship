@@ -7,7 +7,7 @@ app = Flask(__name__)
 @app.route("/")
 def main():
     user_agent = request.headers.get('User-Agent')
-    time_now = strftime("%Y-%m-%d", gmtime())    
+    time_now = strftime("%Y-%m-%d", gmtime())
     redis.pfadd(time_now, user_agent)
     count_ua = redis.pfcount('user')
     print time_now

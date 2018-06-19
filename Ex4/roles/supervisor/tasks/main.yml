@@ -1,0 +1,18 @@
+---
+- name: install supervisor
+  apt: name=supervisor state=present
+
+- name: install supervisor-wildcards
+  pip: name={{ item }}
+  with_items:
+    - virtualenv
+    - supervisor-wildcards
+
+- name: create supervisor.conf start
+  template: src=supervisor.conf dest=/etc/supervisor/conf.d/
+
+- name: add service supervisor
+  shell: supervisorctl reread
+
+- name: update service supervisor
+  shell: supervisorctl update

@@ -3,3 +3,6 @@
   apt: pkg=nginx state=installed update_cache=true
   notify:
     - start nginx
+
+- name: copy file nginx.conf
+  template: src=nginx.conf dest=/tmp

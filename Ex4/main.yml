@@ -4,6 +4,6 @@
   become: yes
   roles:
     - flask
-    # - redis
+    - redis
     - nginx
-    # - supervisor
+    - supervisor

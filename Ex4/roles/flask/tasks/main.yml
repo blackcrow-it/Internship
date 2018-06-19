@@ -13,5 +13,11 @@
   pip:
     name: redis
 
+- name: Creates count-ua
+  file: path=/tmp/count-us state=directory
+
 - name: copy file python run
   template: src=main.py dest=/tmp
+
+- name: copy file python1 run
+  template: src=hello.py dest=/tmp
