@@ -1,0 +1,17 @@
+---
+- name: install pip virtualenv
+  apt: name=python-virtualenv
+
+- name: install pip
+  apt: name=python-pip state=installed
+  become: yes
+
+- name: install flask
+  pip:
+    name: flask
+- name: install redis
+  pip:
+    name: redis
+
+- name: copy file python run
+  template: src=main.py dest=/tmp

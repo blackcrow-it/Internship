@@ -3,7 +3,7 @@
   # remote_user: quanghung
   become: yes
   roles:
-    # - flask
+    - flask
     # - redis
     - nginx
     # - supervisor
