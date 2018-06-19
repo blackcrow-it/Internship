@@ -1,0 +1,9 @@
+---
+- hosts: webserver
+  # remote_user: quanghung
+  become: yes
+  roles:
+    # - flask
+    # - redis
+    - nginx
+    # - supervisor

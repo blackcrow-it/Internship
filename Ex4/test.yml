@@ -1,0 +1,9 @@
+---
+- hosts: webserver
+  become: yes
+  tasks:
+    - name: example copying file with owner and permissions
+      copy:
+        src: /home/quanghung/Desktop/Internship/Ex4/plan.log
+        dest: /home/quanghung
+      become: yes

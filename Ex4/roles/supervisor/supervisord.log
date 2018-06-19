@@ -1,0 +1,1244 @@
+2018-06-08 11:06:28,889 INFO RPC interface 'supervisor' initialized
+2018-06-08 11:06:28,889 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-08 11:06:28,889 INFO daemonizing the supervisord process
+2018-06-08 11:06:28,890 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-08 11:06:28,890 INFO supervisord started with pid 17558
+2018-06-08 11:06:29,894 INFO spawned: 'nginx' with pid 17559
+2018-06-08 11:06:29,897 INFO spawned: 'port_5001' with pid 17560
+2018-06-08 11:06:29,908 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:06:30,047 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:06:31,050 INFO spawned: 'nginx' with pid 17563
+2018-06-08 11:06:31,054 INFO spawned: 'port_5001' with pid 17564
+2018-06-08 11:06:31,062 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:06:31,145 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:06:33,150 INFO spawned: 'nginx' with pid 17566
+2018-06-08 11:06:33,154 INFO spawned: 'port_5001' with pid 17567
+2018-06-08 11:06:33,166 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:06:33,247 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:06:36,254 INFO spawned: 'nginx' with pid 17570
+2018-06-08 11:06:36,257 INFO spawned: 'port_5001' with pid 17571
+2018-06-08 11:06:36,266 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:06:36,335 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2018-06-08 11:06:36,352 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:06:37,353 INFO gave up: port_5001 entered FATAL state, too many start retries too quickly
+2018-06-08 11:07:32,234 INFO RPC interface 'supervisor' initialized
+2018-06-08 11:07:32,234 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-08 11:07:32,235 INFO daemonizing the supervisord process
+2018-06-08 11:07:32,235 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-08 11:07:32,235 INFO supervisord started with pid 17676
+2018-06-08 11:07:33,239 INFO spawned: 'nginx' with pid 17677
+2018-06-08 11:07:33,242 INFO spawned: 'port_5001' with pid 17678
+2018-06-08 11:07:33,254 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:07:33,338 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:07:34,341 INFO spawned: 'nginx' with pid 17680
+2018-06-08 11:07:34,345 INFO spawned: 'port_5001' with pid 17681
+2018-06-08 11:07:34,357 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:07:34,441 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:07:36,446 INFO spawned: 'nginx' with pid 17684
+2018-06-08 11:07:36,450 INFO spawned: 'port_5001' with pid 17685
+2018-06-08 11:07:36,463 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:07:36,541 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:07:39,882 INFO spawned: 'nginx' with pid 17689
+2018-06-08 11:07:39,886 INFO spawned: 'port_5001' with pid 17690
+2018-06-08 11:07:39,898 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:07:39,965 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2018-06-08 11:07:39,979 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:07:40,980 INFO gave up: port_5001 entered FATAL state, too many start retries too quickly
+2018-06-08 11:11:20,252 INFO RPC interface 'supervisor' initialized
+2018-06-08 11:11:20,252 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-08 11:11:20,253 INFO daemonizing the supervisord process
+2018-06-08 11:11:20,253 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-08 11:11:20,253 INFO supervisord started with pid 17791
+2018-06-08 11:11:21,257 INFO spawned: 'nginx' with pid 17792
+2018-06-08 11:11:21,261 INFO spawned: 'port_5001' with pid 17793
+2018-06-08 11:11:21,274 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:11:22,428 INFO spawned: 'nginx' with pid 17799
+2018-06-08 11:11:22,429 INFO success: port_5001 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-08 11:11:22,444 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:11:24,448 INFO spawned: 'nginx' with pid 17800
+2018-06-08 11:11:24,461 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:11:27,635 INFO spawned: 'nginx' with pid 17804
+2018-06-08 11:11:27,651 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:11:28,652 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2018-06-08 11:16:26,948 INFO waiting for port_5001 to die
+2018-06-08 11:16:26,963 INFO stopped: port_5001 (exit status 0)
+2018-06-08 11:16:37,745 INFO RPC interface 'supervisor' initialized
+2018-06-08 11:16:37,745 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-08 11:16:37,746 INFO daemonizing the supervisord process
+2018-06-08 11:16:37,746 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-08 11:16:37,746 INFO supervisord started with pid 18192
+2018-06-08 11:16:38,750 INFO spawned: 'nginx' with pid 18194
+2018-06-08 11:16:38,754 INFO spawned: 'port_5001' with pid 18195
+2018-06-08 11:16:38,763 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:16:38,845 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:16:39,848 INFO spawned: 'nginx' with pid 18197
+2018-06-08 11:16:39,851 INFO spawned: 'port_5001' with pid 18198
+2018-06-08 11:16:39,862 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:16:39,944 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:16:41,949 INFO spawned: 'nginx' with pid 18201
+2018-06-08 11:16:41,951 INFO spawned: 'port_5001' with pid 18202
+2018-06-08 11:16:41,958 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:16:42,085 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:16:45,090 INFO spawned: 'nginx' with pid 18206
+2018-06-08 11:16:45,094 INFO spawned: 'port_5001' with pid 18207
+2018-06-08 11:16:45,106 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:16:45,173 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2018-06-08 11:16:45,187 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-08 11:16:45,387 INFO gave up: port_5001 entered FATAL state, too many start retries too quickly
+2018-06-08 11:17:36,916 INFO RPC interface 'supervisor' initialized
+2018-06-08 11:17:36,917 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-08 11:17:36,917 INFO daemonizing the supervisord process
+2018-06-08 11:17:36,917 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-08 11:17:36,918 INFO supervisord started with pid 18265
+2018-06-08 11:17:37,922 INFO spawned: 'nginx' with pid 18266
+2018-06-08 11:17:37,925 INFO spawned: 'port_5001' with pid 18267
+2018-06-08 11:17:37,937 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:17:39,088 INFO spawned: 'nginx' with pid 18272
+2018-06-08 11:17:39,089 INFO success: port_5001 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-08 11:17:39,103 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:17:41,482 INFO spawned: 'nginx' with pid 18275
+2018-06-08 11:17:41,495 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:17:44,501 INFO spawned: 'nginx' with pid 18276
+2018-06-08 11:17:44,517 INFO exited: nginx (exit status 1; not expected)
+2018-06-08 11:17:45,518 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2018-06-08 11:25:57,619 INFO waiting for port_5001 to die
+2018-06-08 11:25:57,640 INFO stopped: port_5001 (exit status 0)
+2018-06-11 14:46:07,475 INFO RPC interface 'supervisor' initialized
+2018-06-11 14:46:07,475 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-11 14:46:07,475 INFO daemonizing the supervisord process
+2018-06-11 14:46:07,476 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-11 14:46:07,476 INFO supervisord started with pid 5311
+2018-06-11 14:46:08,480 INFO spawned: 'nginx' with pid 5312
+2018-06-11 14:46:08,484 INFO spawned: 'port_5000' with pid 5313
+2018-06-11 14:46:08,492 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:46:08,726 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 14:46:09,729 INFO spawned: 'nginx' with pid 5316
+2018-06-11 14:46:09,732 INFO spawned: 'port_5000' with pid 5317
+2018-06-11 14:46:09,746 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:46:09,865 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 14:46:11,869 INFO spawned: 'nginx' with pid 5326
+2018-06-11 14:46:11,873 INFO spawned: 'port_5000' with pid 5327
+2018-06-11 14:46:11,883 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:46:11,967 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 14:46:14,973 INFO spawned: 'nginx' with pid 5337
+2018-06-11 14:46:14,977 INFO spawned: 'port_5000' with pid 5338
+2018-06-11 14:46:14,987 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:46:15,057 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2018-06-11 14:46:15,071 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 14:46:16,072 INFO gave up: port_5000 entered FATAL state, too many start retries too quickly
+2018-06-11 14:50:37,282 INFO RPC interface 'supervisor' initialized
+2018-06-11 14:50:37,282 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-11 14:50:37,282 INFO daemonizing the supervisord process
+2018-06-11 14:50:37,283 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-11 14:50:37,283 INFO supervisord started with pid 5550
+2018-06-11 14:50:38,286 INFO spawned: 'nginx' with pid 5551
+2018-06-11 14:50:38,288 INFO spawned: 'port_5000' with pid 5552
+2018-06-11 14:50:38,298 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:50:39,447 INFO spawned: 'nginx' with pid 5565
+2018-06-11 14:50:39,448 INFO success: port_5000 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:50:39,458 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:50:41,463 INFO spawned: 'nginx' with pid 5566
+2018-06-11 14:50:41,479 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:50:45,463 INFO spawned: 'nginx' with pid 5581
+2018-06-11 14:50:45,481 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:50:46,482 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2018-06-11 14:53:55,964 INFO waiting for port_5000 to die
+2018-06-11 14:53:55,987 INFO stopped: port_5000 (exit status 0)
+2018-06-11 14:54:09,524 CRIT Supervisor running as root (no user in config file)
+2018-06-11 14:54:09,529 INFO RPC interface 'supervisor' initialized
+2018-06-11 14:54:09,530 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-11 14:54:09,530 INFO daemonizing the supervisord process
+2018-06-11 14:54:09,530 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-11 14:54:09,531 INFO supervisord started with pid 5770
+2018-06-11 14:54:10,535 INFO spawned: 'nginx' with pid 5771
+2018-06-11 14:54:10,537 INFO spawned: 'port_5000' with pid 5772
+2018-06-11 14:54:10,666 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 14:54:11,550 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:54:12,052 INFO spawned: 'port_5000' with pid 5781
+2018-06-11 14:54:12,145 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 14:54:13,052 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:54:14,055 INFO spawned: 'nginx' with pid 5783
+2018-06-11 14:54:14,571 INFO spawned: 'port_5000' with pid 5784
+2018-06-11 14:54:14,663 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 14:54:15,070 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:54:16,572 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:54:17,575 INFO spawned: 'nginx' with pid 5795
+2018-06-11 14:54:18,093 INFO spawned: 'port_5000' with pid 5796
+2018-06-11 14:54:18,188 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 14:54:18,591 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:54:18,591 INFO gave up: port_5000 entered FATAL state, too many start retries too quickly
+2018-06-11 14:54:20,093 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:54:20,597 INFO spawned: 'nginx' with pid 5801
+2018-06-11 14:54:21,607 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:54:23,108 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:54:23,758 INFO spawned: 'nginx' with pid 5810
+2018-06-11 14:54:24,769 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:54:26,271 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:54:27,274 INFO spawned: 'nginx' with pid 5819
+2018-06-11 14:54:28,290 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:54:29,792 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:54:30,796 INFO spawned: 'nginx' with pid 5820
+2018-06-11 14:54:31,811 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:54:33,312 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:54:33,973 INFO spawned: 'nginx' with pid 5829
+2018-06-11 14:54:34,987 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:54:36,489 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:54:37,493 INFO spawned: 'nginx' with pid 5838
+2018-06-11 14:54:38,507 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:54:40,009 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:54:41,011 INFO spawned: 'nginx' with pid 5847
+2018-06-11 14:54:42,025 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:54:43,526 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:54:44,527 INFO spawned: 'nginx' with pid 5851
+2018-06-11 14:54:45,540 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:54:47,042 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:54:48,046 INFO spawned: 'nginx' with pid 5861
+2018-06-11 14:54:49,063 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:54:50,565 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:54:51,569 INFO spawned: 'nginx' with pid 5875
+2018-06-11 14:54:52,583 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:54:54,085 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:54:54,980 INFO spawned: 'nginx' with pid 5909
+2018-06-11 14:54:55,990 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:54:57,493 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:54:58,495 INFO spawned: 'nginx' with pid 5917
+2018-06-11 14:54:59,508 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:55:01,010 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:55:01,046 INFO spawned: 'nginx' with pid 5918
+2018-06-11 14:55:02,062 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:55:03,564 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:55:04,567 INFO spawned: 'nginx' with pid 5928
+2018-06-11 14:55:05,585 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:55:07,087 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:55:07,263 INFO spawned: 'nginx' with pid 5937
+2018-06-11 14:55:08,274 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:55:09,776 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:55:09,882 INFO spawned: 'nginx' with pid 5940
+2018-06-11 14:55:10,898 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:55:12,399 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:55:13,402 INFO spawned: 'nginx' with pid 5949
+2018-06-11 14:55:14,420 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:55:15,922 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:55:16,925 INFO spawned: 'nginx' with pid 5958
+2018-06-11 14:55:17,943 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:55:19,444 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 14:55:19,537 INFO spawned: 'nginx' with pid 5961
+2018-06-11 14:55:19,539 INFO waiting for nginx to die
+2018-06-11 14:55:22,053 INFO stopped: nginx (exit status 1)
+2018-06-11 14:56:53,610 CRIT Supervisor running as root (no user in config file)
+2018-06-11 14:56:53,616 INFO RPC interface 'supervisor' initialized
+2018-06-11 14:56:53,616 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-11 14:56:53,616 INFO daemonizing the supervisord process
+2018-06-11 14:56:53,617 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-11 14:56:53,617 INFO supervisord started with pid 6054
+2018-06-11 14:56:54,619 INFO spawned: 'nginx' with pid 6055
+2018-06-11 14:56:54,622 INFO spawned: 'port_5000' with pid 6056
+2018-06-11 14:56:55,826 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:56:55,826 INFO success: port_5000 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 14:58:03,285 INFO waiting for nginx, port_5000 to die
+2018-06-11 14:58:03,300 INFO stopped: port_5000 (exit status 0)
+2018-06-11 14:58:03,303 INFO stopped: nginx (exit status 0)
+2018-06-11 15:01:43,819 CRIT Supervisor running as root (no user in config file)
+2018-06-11 15:01:43,825 INFO RPC interface 'supervisor' initialized
+2018-06-11 15:01:43,825 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-11 15:01:43,826 INFO daemonizing the supervisord process
+2018-06-11 15:01:43,826 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-11 15:01:43,827 INFO supervisord started with pid 6209
+2018-06-11 15:01:44,831 INFO spawned: 'nginx' with pid 6210
+2018-06-11 15:01:44,834 INFO spawned: 'port_5000' with pid 6211
+2018-06-11 15:01:44,959 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:01:45,960 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:01:45,963 INFO spawned: 'port_5000' with pid 6225
+2018-06-11 15:01:46,055 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:01:48,059 INFO spawned: 'port_5000' with pid 6229
+2018-06-11 15:01:48,171 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:01:51,979 INFO spawned: 'port_5000' with pid 6245
+2018-06-11 15:01:52,073 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:01:53,075 INFO gave up: port_5000 entered FATAL state, too many start retries too quickly
+2018-06-11 15:04:41,474 INFO waiting for nginx to die
+2018-06-11 15:04:41,479 INFO stopped: nginx (exit status 0)
+2018-06-11 15:06:06,760 CRIT Supervisor running as root (no user in config file)
+2018-06-11 15:06:06,766 INFO RPC interface 'supervisor' initialized
+2018-06-11 15:06:06,766 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-11 15:06:06,767 INFO daemonizing the supervisord process
+2018-06-11 15:06:06,767 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-11 15:06:06,768 INFO supervisord started with pid 6403
+2018-06-11 15:06:07,771 INFO spawned: 'nginx' with pid 6404
+2018-06-11 15:06:07,774 INFO spawned: 'port_5000' with pid 6405
+2018-06-11 15:06:08,936 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:06:08,936 INFO success: port_5000 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:07:02,285 INFO waiting for nginx, port_5000 to die
+2018-06-11 15:07:02,311 INFO stopped: port_5000 (exit status 0)
+2018-06-11 15:07:02,313 INFO stopped: nginx (exit status 0)
+2018-06-11 15:08:48,411 CRIT Supervisor running as root (no user in config file)
+2018-06-11 15:08:48,418 INFO RPC interface 'supervisor' initialized
+2018-06-11 15:08:48,418 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-11 15:08:48,419 INFO daemonizing the supervisord process
+2018-06-11 15:08:48,419 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-11 15:08:48,419 INFO supervisord started with pid 6692
+2018-06-11 15:08:49,423 INFO spawned: 'nginx' with pid 6693
+2018-06-11 15:08:49,427 INFO spawned: 'port_5000' with pid 6694
+2018-06-11 15:08:50,636 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:08:50,636 INFO success: port_5000 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:09:10,939 INFO waiting for nginx, port_5000 to die
+2018-06-11 15:09:10,960 INFO stopped: port_5000 (exit status 0)
+2018-06-11 15:09:10,964 INFO stopped: nginx (exit status 0)
+2018-06-11 15:12:27,420 WARN Failed to clean up '/tmp/nginx-stdout---supervisor-KKka_v.log'
+2018-06-11 15:12:27,420 WARN Failed to clean up '/tmp/port_5000-stderr---supervisor-kFT6aR.log'
+2018-06-11 15:12:27,420 WARN Failed to clean up '/tmp/port_5000-stdout---supervisor-cRj0hZ.log'
+2018-06-11 15:12:27,420 WARN Failed to clean up '/tmp/nginx-stderr---supervisor-iHYtFp.log'
+2018-06-11 15:12:27,426 INFO RPC interface 'supervisor' initialized
+2018-06-11 15:12:27,426 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-11 15:12:27,427 INFO daemonizing the supervisord process
+2018-06-11 15:12:27,427 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-11 15:12:27,427 INFO supervisord started with pid 6953
+2018-06-11 15:12:28,431 INFO spawned: 'nginx' with pid 6954
+2018-06-11 15:12:28,434 INFO spawned: 'port_5000' with pid 6955
+2018-06-11 15:12:28,439 INFO exited: port_5000 (exit status 127; not expected)
+2018-06-11 15:12:28,446 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 15:12:29,449 INFO spawned: 'nginx' with pid 6964
+2018-06-11 15:12:29,453 INFO spawned: 'port_5000' with pid 6965
+2018-06-11 15:12:29,461 INFO exited: port_5000 (exit status 127; not expected)
+2018-06-11 15:12:29,466 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 15:12:31,470 INFO spawned: 'nginx' with pid 6968
+2018-06-11 15:12:31,473 INFO spawned: 'port_5000' with pid 6969
+2018-06-11 15:12:31,479 INFO exited: port_5000 (exit status 127; not expected)
+2018-06-11 15:12:31,484 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 15:12:34,489 INFO spawned: 'nginx' with pid 6989
+2018-06-11 15:12:34,493 INFO spawned: 'port_5000' with pid 6990
+2018-06-11 15:12:34,500 INFO exited: port_5000 (exit status 127; not expected)
+2018-06-11 15:12:34,503 INFO gave up: port_5000 entered FATAL state, too many start retries too quickly
+2018-06-11 15:12:34,510 INFO exited: nginx (exit status 1; not expected)
+2018-06-11 15:12:35,511 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2018-06-11 15:14:28,706 CRIT Supervisor running as root (no user in config file)
+2018-06-11 15:14:51,917 CRIT Supervisor running as root (no user in config file)
+2018-06-11 15:14:51,923 INFO RPC interface 'supervisor' initialized
+2018-06-11 15:14:51,923 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-11 15:14:51,924 INFO daemonizing the supervisord process
+2018-06-11 15:14:51,924 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-11 15:14:51,925 INFO supervisord started with pid 7091
+2018-06-11 15:14:52,927 INFO spawned: 'nginx' with pid 7092
+2018-06-11 15:14:52,930 INFO spawned: 'port_5000' with pid 7093
+2018-06-11 15:14:54,089 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:14:54,089 INFO success: port_5000 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:15:33,854 INFO waiting for nginx, port_5000 to die
+2018-06-11 15:15:33,872 INFO stopped: port_5000 (exit status 0)
+2018-06-11 15:15:33,878 INFO stopped: nginx (exit status 0)
+2018-06-11 15:15:39,541 CRIT Supervisor running as root (no user in config file)
+2018-06-11 15:15:39,547 INFO RPC interface 'supervisor' initialized
+2018-06-11 15:15:39,548 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-11 15:15:39,548 INFO daemonizing the supervisord process
+2018-06-11 15:15:39,548 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-11 15:15:39,549 INFO supervisord started with pid 7157
+2018-06-11 15:15:40,552 INFO spawned: 'nginx' with pid 7158
+2018-06-11 15:15:40,555 INFO spawned: 'port_5000' with pid 7159
+2018-06-11 15:15:40,687 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:15:41,689 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:15:41,691 INFO spawned: 'port_5000' with pid 7175
+2018-06-11 15:15:41,819 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:15:43,824 INFO spawned: 'port_5000' with pid 7182
+2018-06-11 15:15:43,954 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:15:46,978 INFO spawned: 'port_5000' with pid 7197
+2018-06-11 15:15:47,079 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:15:48,080 INFO gave up: port_5000 entered FATAL state, too many start retries too quickly
+2018-06-11 15:18:29,839 INFO waiting for nginx to die
+2018-06-11 15:18:29,845 INFO stopped: nginx (exit status 0)
+2018-06-11 15:34:22,086 CRIT Supervisor running as root (no user in config file)
+2018-06-11 15:34:22,093 INFO RPC interface 'supervisor' initialized
+2018-06-11 15:34:22,093 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-11 15:34:22,093 INFO daemonizing the supervisord process
+2018-06-11 15:34:22,093 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-11 15:34:22,094 INFO supervisord started with pid 8275
+2018-06-11 15:34:23,098 INFO spawned: 'nginx' with pid 8277
+2018-06-11 15:34:23,102 INFO spawned: 'port_5000' with pid 8278
+2018-06-11 15:34:24,317 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:34:24,317 INFO success: port_5000 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:35:30,816 INFO waiting for nginx to stop
+2018-06-11 15:35:30,816 INFO waiting for port_5000 to stop
+2018-06-11 15:35:30,818 INFO stopped: nginx (exit status 0)
+2018-06-11 15:35:30,842 INFO stopped: port_5000 (exit status 0)
+2018-06-11 15:35:31,851 INFO spawned: 'nginx' with pid 8392
+2018-06-11 15:35:31,854 INFO spawned: 'port_5000' with pid 8393
+2018-06-11 15:35:31,997 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:35:32,998 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:35:33,002 INFO spawned: 'port_5000' with pid 8409
+2018-06-11 15:35:33,101 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:35:35,108 INFO spawned: 'port_5000' with pid 8412
+2018-06-11 15:35:35,207 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:35:38,213 INFO spawned: 'port_5000' with pid 8423
+2018-06-11 15:35:38,313 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:35:39,314 INFO gave up: port_5000 entered FATAL state, too many start retries too quickly
+2018-06-11 15:36:59,308 INFO waiting for nginx to stop
+2018-06-11 15:36:59,315 INFO stopped: nginx (exit status 0)
+2018-06-11 15:37:00,324 INFO spawned: 'nginx' with pid 8482
+2018-06-11 15:37:00,327 INFO spawned: 'port_5000' with pid 8483
+2018-06-11 15:37:00,464 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:37:01,466 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:37:01,469 INFO spawned: 'port_5000' with pid 8499
+2018-06-11 15:37:01,567 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:37:03,574 INFO spawned: 'port_5000' with pid 8502
+2018-06-11 15:37:03,673 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:37:06,679 INFO spawned: 'port_5000' with pid 8513
+2018-06-11 15:37:06,778 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:37:07,779 INFO gave up: port_5000 entered FATAL state, too many start retries too quickly
+2018-06-11 15:37:15,159 INFO waiting for nginx to die
+2018-06-11 15:37:15,165 INFO stopped: nginx (exit status 0)
+2018-06-11 15:37:19,923 CRIT Supervisor running as root (no user in config file)
+2018-06-11 15:37:19,929 INFO RPC interface 'supervisor' initialized
+2018-06-11 15:37:19,929 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-11 15:37:19,929 INFO daemonizing the supervisord process
+2018-06-11 15:37:19,930 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-11 15:37:19,930 INFO supervisord started with pid 8572
+2018-06-11 15:37:20,935 INFO spawned: 'nginx' with pid 8573
+2018-06-11 15:37:20,938 INFO spawned: 'port_5000' with pid 8574
+2018-06-11 15:37:20,939 INFO spawned: 'port_5001' with pid 8575
+2018-06-11 15:37:21,053 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-11 15:37:22,462 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:37:22,462 INFO success: port_5000 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:37:22,464 INFO spawned: 'port_5001' with pid 8595
+2018-06-11 15:37:22,558 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-11 15:37:24,564 INFO spawned: 'port_5001' with pid 8599
+2018-06-11 15:37:24,828 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-11 15:37:27,832 INFO spawned: 'port_5001' with pid 8605
+2018-06-11 15:37:27,953 INFO exited: port_5001 (exit status 1; not expected)
+2018-06-11 15:37:28,785 INFO gave up: port_5001 entered FATAL state, too many start retries too quickly
+2018-06-11 15:44:01,463 INFO exited: port_5000 (exit status 0; expected)
+2018-06-11 15:44:02,466 INFO spawned: 'port_5000' with pid 9178
+2018-06-11 15:44:02,663 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:44:03,666 INFO spawned: 'port_5000' with pid 9191
+2018-06-11 15:44:03,759 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:44:05,764 INFO spawned: 'port_5000' with pid 9193
+2018-06-11 15:44:05,865 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:44:08,870 INFO spawned: 'port_5000' with pid 9203
+2018-06-11 15:44:08,967 INFO exited: port_5000 (exit status 1; not expected)
+2018-06-11 15:44:09,969 INFO gave up: port_5000 entered FATAL state, too many start retries too quickly
+2018-06-11 15:44:22,316 WARN received SIGTERM indicating exit request
+2018-06-11 15:44:22,316 INFO waiting for nginx to die
+2018-06-11 15:44:24,324 INFO stopped: nginx (exit status 0)
+2018-06-11 15:46:06,435 CRIT Supervisor running as root (no user in config file)
+2018-06-11 15:46:06,442 INFO RPC interface 'supervisor' initialized
+2018-06-11 15:46:06,443 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-11 15:46:06,443 INFO daemonizing the supervisord process
+2018-06-11 15:46:06,444 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-11 15:46:06,444 INFO supervisord started with pid 9290
+2018-06-11 15:46:07,448 INFO spawned: 'nginx' with pid 9291
+2018-06-11 15:46:07,454 INFO spawned: 'port_5000' with pid 9292
+2018-06-11 15:46:07,455 INFO spawned: 'port_5001' with pid 9293
+2018-06-11 15:46:08,708 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:46:08,708 INFO success: port_5000 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:46:08,708 INFO success: port_5001 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:48:03,064 INFO waiting for nginx, port_5000, port_5001 to die
+2018-06-11 15:48:03,081 INFO stopped: port_5001 (exit status 0)
+2018-06-11 15:48:03,105 INFO stopped: port_5000 (exit status 0)
+2018-06-11 15:48:03,108 INFO stopped: nginx (exit status 0)
+2018-06-11 15:53:44,931 CRIT Supervisor running as root (no user in config file)
+2018-06-11 15:53:44,952 INFO RPC interface 'supervisor' initialized
+2018-06-11 15:53:44,952 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-11 15:53:44,954 INFO daemonizing the supervisord process
+2018-06-11 15:53:44,955 INFO set current directory: '/home/quanghung/Git/Internship/Ex4'
+2018-06-11 15:53:44,956 INFO supervisord started with pid 10602
+2018-06-11 15:53:45,958 INFO spawned: 'nginx' with pid 10604
+2018-06-11 15:53:45,961 INFO spawned: 'port_5000' with pid 10605
+2018-06-11 15:53:45,963 INFO spawned: 'port_5001' with pid 10606
+2018-06-11 15:53:47,306 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:53:47,306 INFO success: port_5000 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-11 15:53:47,307 INFO success: port_5001 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:22:44,249 CRIT Supervisor running as root (no user in config file)
+2018-06-15 11:22:44,265 INFO RPC interface 'supervisor' initialized
+2018-06-15 11:22:44,265 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-15 11:22:44,265 INFO daemonizing the supervisord process
+2018-06-15 11:22:44,266 INFO set current directory: '/home/quanghung/Desktop/Internship/Ex4'
+2018-06-15 11:22:44,266 INFO supervisord started with pid 5635
+2018-06-15 11:22:45,269 INFO spawned: 'nginx' with pid 5641
+2018-06-15 11:22:45,270 INFO spawnerr: command at '/home/quanghung/Desktop/Internship/Ex4/test.py' is not executable
+2018-06-15 11:22:45,270 INFO spawnerr: command at '/home/quanghung/Desktop/Internship/Ex4/hello.py' is not executable
+2018-06-15 11:22:46,493 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:22:46,493 INFO spawnerr: command at '/home/quanghung/Desktop/Internship/Ex4/test.py' is not executable
+2018-06-15 11:22:46,494 INFO spawnerr: command at '/home/quanghung/Desktop/Internship/Ex4/hello.py' is not executable
+2018-06-15 11:22:47,995 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:22:48,997 INFO spawned: 'nginx' with pid 5651
+2018-06-15 11:22:48,998 INFO spawnerr: command at '/home/quanghung/Desktop/Internship/Ex4/test.py' is not executable
+2018-06-15 11:22:48,998 INFO spawnerr: command at '/home/quanghung/Desktop/Internship/Ex4/hello.py' is not executable
+2018-06-15 11:22:50,013 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:22:51,515 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:22:52,517 INFO spawned: 'nginx' with pid 5661
+2018-06-15 11:22:52,518 INFO spawnerr: command at '/home/quanghung/Desktop/Internship/Ex4/test.py' is not executable
+2018-06-15 11:22:52,519 INFO gave up: port_5000 entered FATAL state, too many start retries too quickly
+2018-06-15 11:22:52,519 INFO spawnerr: command at '/home/quanghung/Desktop/Internship/Ex4/hello.py' is not executable
+2018-06-15 11:22:52,519 INFO gave up: port_5001 entered FATAL state, too many start retries too quickly
+2018-06-15 11:22:53,531 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:22:55,034 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:22:56,037 INFO spawned: 'nginx' with pid 5665
+2018-06-15 11:22:57,050 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:22:58,552 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:22:59,555 INFO spawned: 'nginx' with pid 5676
+2018-06-15 11:23:00,570 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:23:02,071 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:23:03,074 INFO spawned: 'nginx' with pid 5684
+2018-06-15 11:23:04,087 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:23:05,589 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:23:06,591 INFO spawned: 'nginx' with pid 5689
+2018-06-15 11:23:07,604 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:23:09,107 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:23:10,110 INFO spawned: 'nginx' with pid 5694
+2018-06-15 11:23:11,123 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:23:12,624 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:23:13,627 INFO spawned: 'nginx' with pid 5703
+2018-06-15 11:23:14,641 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:23:16,143 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:23:17,147 INFO spawned: 'nginx' with pid 5712
+2018-06-15 11:23:18,164 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:23:18,306 INFO waiting for nginx to die
+2018-06-15 11:23:18,307 INFO stopped: nginx (terminated by SIGTERM)
+2018-06-15 11:23:25,045 CRIT Supervisor running as root (no user in config file)
+2018-06-15 11:23:25,052 INFO RPC interface 'supervisor' initialized
+2018-06-15 11:23:25,052 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-15 11:23:25,053 INFO daemonizing the supervisord process
+2018-06-15 11:23:25,053 INFO set current directory: '/home/quanghung/Desktop/Internship/Ex4'
+2018-06-15 11:23:25,053 INFO supervisord started with pid 5729
+2018-06-15 11:23:26,056 INFO spawned: 'nginx' with pid 5731
+2018-06-15 11:23:26,057 INFO spawnerr: command at '/home/quanghung/Desktop/Internship/Ex4/test.py' is not executable
+2018-06-15 11:23:26,058 INFO spawnerr: command at '/home/quanghung/Desktop/Internship/Ex4/hello.py' is not executable
+2018-06-15 11:23:27,070 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:23:27,070 INFO spawnerr: command at '/home/quanghung/Desktop/Internship/Ex4/test.py' is not executable
+2018-06-15 11:23:27,071 INFO spawnerr: command at '/home/quanghung/Desktop/Internship/Ex4/hello.py' is not executable
+2018-06-15 11:23:28,571 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:23:29,575 INFO spawned: 'nginx' with pid 5746
+2018-06-15 11:23:29,576 INFO spawnerr: command at '/home/quanghung/Desktop/Internship/Ex4/test.py' is not executable
+2018-06-15 11:23:29,577 INFO spawnerr: command at '/home/quanghung/Desktop/Internship/Ex4/hello.py' is not executable
+2018-06-15 11:23:30,590 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:23:32,091 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:23:33,094 INFO spawned: 'nginx' with pid 5757
+2018-06-15 11:23:33,095 INFO spawnerr: command at '/home/quanghung/Desktop/Internship/Ex4/test.py' is not executable
+2018-06-15 11:23:33,095 INFO gave up: port_5000 entered FATAL state, too many start retries too quickly
+2018-06-15 11:23:33,095 INFO spawnerr: command at '/home/quanghung/Desktop/Internship/Ex4/hello.py' is not executable
+2018-06-15 11:23:33,095 INFO gave up: port_5001 entered FATAL state, too many start retries too quickly
+2018-06-15 11:23:34,109 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:23:35,610 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:23:36,613 INFO spawned: 'nginx' with pid 5760
+2018-06-15 11:23:37,627 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:23:39,129 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:23:40,131 INFO spawned: 'nginx' with pid 5770
+2018-06-15 11:23:41,154 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:23:42,656 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:23:43,659 INFO spawned: 'nginx' with pid 5786
+2018-06-15 11:23:44,676 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:23:46,178 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:23:47,181 INFO spawned: 'nginx' with pid 5795
+2018-06-15 11:23:48,195 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:23:49,697 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:23:50,700 INFO spawned: 'nginx' with pid 5796
+2018-06-15 11:23:51,716 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:23:53,217 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:23:54,221 INFO spawned: 'nginx' with pid 5805
+2018-06-15 11:23:55,235 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:23:56,737 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:23:57,741 INFO spawned: 'nginx' with pid 5815
+2018-06-15 11:23:58,756 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:24:00,257 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:24:01,261 INFO spawned: 'nginx' with pid 5819
+2018-06-15 11:24:02,275 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:24:03,777 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:24:04,781 INFO spawned: 'nginx' with pid 5830
+2018-06-15 11:24:05,795 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:24:07,297 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:24:08,300 INFO spawned: 'nginx' with pid 5839
+2018-06-15 11:24:09,316 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:24:10,817 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:24:11,820 INFO spawned: 'nginx' with pid 5840
+2018-06-15 11:24:12,835 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:24:14,337 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:24:15,341 INFO spawned: 'nginx' with pid 5849
+2018-06-15 11:24:16,355 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:24:17,857 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:24:18,861 INFO spawned: 'nginx' with pid 5857
+2018-06-15 11:24:19,876 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:24:21,378 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:24:22,382 INFO spawned: 'nginx' with pid 5878
+2018-06-15 11:24:23,401 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:24:24,903 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:24:25,907 INFO spawned: 'nginx' with pid 5879
+2018-06-15 11:24:26,924 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:24:28,425 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:24:29,427 INFO spawned: 'nginx' with pid 5882
+2018-06-15 11:24:30,444 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:24:31,945 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:24:32,949 INFO spawned: 'nginx' with pid 5898
+2018-06-15 11:24:33,964 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:24:35,467 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:24:36,471 INFO spawned: 'nginx' with pid 5909
+2018-06-15 11:24:37,488 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:24:38,990 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:24:39,993 INFO spawned: 'nginx' with pid 5911
+2018-06-15 11:24:41,012 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:24:42,515 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:24:43,518 INFO spawned: 'nginx' with pid 5912
+2018-06-15 11:24:44,528 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:24:46,030 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:24:47,034 INFO spawned: 'nginx' with pid 5924
+2018-06-15 11:24:48,050 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:24:49,552 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:24:50,555 INFO spawned: 'nginx' with pid 5933
+2018-06-15 11:24:51,572 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:24:53,074 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:24:54,077 INFO spawned: 'nginx' with pid 5934
+2018-06-15 11:24:55,096 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:24:56,597 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:24:57,601 INFO spawned: 'nginx' with pid 5943
+2018-06-15 11:24:58,620 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:25:00,121 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:25:01,125 INFO spawned: 'nginx' with pid 5953
+2018-06-15 11:25:02,138 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:25:03,641 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:25:04,643 INFO spawned: 'nginx' with pid 5963
+2018-06-15 11:25:05,655 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:25:07,156 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:25:08,158 INFO spawned: 'nginx' with pid 5964
+2018-06-15 11:25:09,173 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:25:10,675 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:25:11,678 INFO spawned: 'nginx' with pid 5975
+2018-06-15 11:25:12,695 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:25:14,197 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:25:15,200 INFO spawned: 'nginx' with pid 5986
+2018-06-15 11:25:16,213 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:25:17,715 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:25:18,719 INFO spawned: 'nginx' with pid 5988
+2018-06-15 11:25:19,739 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:25:21,241 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:25:21,493 INFO spawned: 'nginx' with pid 6003
+2018-06-15 11:25:22,501 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:25:24,003 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:25:25,006 INFO spawned: 'nginx' with pid 6012
+2018-06-15 11:25:26,023 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:25:27,524 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:25:28,528 INFO spawned: 'nginx' with pid 6014
+2018-06-15 11:25:28,915 INFO waiting for nginx to die
+2018-06-15 11:25:28,918 INFO stopped: nginx (terminated by SIGTERM)
+2018-06-15 11:26:20,318 CRIT Supervisor running as root (no user in config file)
+2018-06-15 11:26:20,328 INFO RPC interface 'supervisor' initialized
+2018-06-15 11:26:20,328 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-15 11:26:20,329 INFO daemonizing the supervisord process
+2018-06-15 11:26:20,330 INFO set current directory: '/home/quanghung/Desktop/Internship/Ex4'
+2018-06-15 11:26:20,331 INFO supervisord started with pid 6062
+2018-06-15 11:26:21,333 INFO spawned: 'nginx' with pid 6063
+2018-06-15 11:26:21,334 INFO spawned: 'port_5000' with pid 6064
+2018-06-15 11:26:21,335 INFO spawned: 'port_5001' with pid 6065
+2018-06-15 11:26:22,345 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:26:22,345 INFO success: port_5000 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:26:22,345 INFO success: port_5001 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:26:23,847 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:26:24,850 INFO spawned: 'nginx' with pid 6083
+2018-06-15 11:26:25,864 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:26:27,365 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:26:28,368 INFO spawned: 'nginx' with pid 6094
+2018-06-15 11:26:29,382 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:26:30,884 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:26:31,887 INFO spawned: 'nginx' with pid 6095
+2018-06-15 11:26:32,901 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:26:34,405 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:26:35,409 INFO spawned: 'nginx' with pid 6109
+2018-06-15 11:26:36,423 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:26:37,923 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:26:38,926 INFO spawned: 'nginx' with pid 6166
+2018-06-15 11:26:39,941 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:26:41,443 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:26:42,445 INFO spawned: 'nginx' with pid 6169
+2018-06-15 11:26:43,458 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:26:44,960 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:26:45,964 INFO spawned: 'nginx' with pid 6170
+2018-06-15 11:26:46,978 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:26:48,479 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:26:48,584 INFO spawned: 'nginx' with pid 6176
+2018-06-15 11:26:49,596 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:26:51,098 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:26:51,663 INFO spawned: 'nginx' with pid 6179
+2018-06-15 11:26:52,680 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:26:54,181 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:26:55,184 INFO spawned: 'nginx' with pid 6190
+2018-06-15 11:26:56,197 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:26:57,698 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:26:58,701 INFO spawned: 'nginx' with pid 6199
+2018-06-15 11:26:59,716 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:27:01,113 INFO waiting for nginx, port_5000, port_5001 to die
+2018-06-15 11:27:01,113 INFO stopped: port_5001 (terminated by SIGTERM)
+2018-06-15 11:27:01,116 INFO stopped: port_5000 (terminated by SIGTERM)
+2018-06-15 11:27:01,116 INFO stopped: nginx (terminated by SIGTERM)
+2018-06-15 11:34:40,720 CRIT Supervisor running as root (no user in config file)
+2018-06-15 11:34:40,741 INFO RPC interface 'supervisor' initialized
+2018-06-15 11:34:40,741 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-15 11:34:40,742 INFO daemonizing the supervisord process
+2018-06-15 11:34:40,742 INFO set current directory: '/home/quanghung/Desktop/Internship/Ex4'
+2018-06-15 11:34:40,742 INFO supervisord started with pid 6747
+2018-06-15 11:34:41,746 INFO spawned: 'nginx' with pid 6748
+2018-06-15 11:34:41,748 INFO spawned: 'port_5000' with pid 6749
+2018-06-15 11:34:41,753 INFO spawned: 'port_5001' with pid 6750
+2018-06-15 11:34:43,091 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:34:43,091 INFO success: port_5000 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:34:43,091 INFO success: port_5001 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:34:44,639 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:34:45,644 INFO spawned: 'nginx' with pid 6765
+2018-06-15 11:34:46,668 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:34:48,170 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:34:49,172 INFO spawned: 'nginx' with pid 6770
+2018-06-15 11:34:50,187 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:34:51,689 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:34:52,692 INFO spawned: 'nginx' with pid 6775
+2018-06-15 11:34:53,709 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:34:55,211 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:34:56,215 INFO spawned: 'nginx' with pid 6787
+2018-06-15 11:34:57,233 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:34:58,735 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:34:59,739 INFO spawned: 'nginx' with pid 6796
+2018-06-15 11:35:00,753 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:35:02,255 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:35:03,257 INFO spawned: 'nginx' with pid 6804
+2018-06-15 11:35:04,271 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:35:05,773 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:35:06,776 INFO spawned: 'nginx' with pid 6810
+2018-06-15 11:35:07,791 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:35:09,293 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:35:10,296 INFO spawned: 'nginx' with pid 6819
+2018-06-15 11:35:11,313 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:35:12,815 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:35:13,819 INFO spawned: 'nginx' with pid 6828
+2018-06-15 11:35:14,838 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:35:16,340 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:35:17,344 INFO spawned: 'nginx' with pid 6829
+2018-06-15 11:35:18,357 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:35:19,859 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:35:20,861 INFO spawned: 'nginx' with pid 6838
+2018-06-15 11:35:21,877 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:35:23,379 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:35:24,382 INFO spawned: 'nginx' with pid 6857
+2018-06-15 11:35:25,401 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:35:26,901 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:35:27,906 INFO spawned: 'nginx' with pid 6861
+2018-06-15 11:35:28,919 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:35:30,421 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:35:31,423 INFO spawned: 'nginx' with pid 6876
+2018-06-15 11:35:32,440 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:35:33,941 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:35:34,944 INFO spawned: 'nginx' with pid 6889
+2018-06-15 11:35:35,962 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:35:37,463 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 11:35:38,467 INFO spawned: 'nginx' with pid 6890
+2018-06-15 11:35:39,481 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 11:35:40,130 INFO waiting for nginx, port_5000, port_5001 to die
+2018-06-15 11:35:40,131 INFO stopped: port_5001 (terminated by SIGTERM)
+2018-06-15 11:35:40,133 INFO stopped: port_5000 (terminated by SIGTERM)
+2018-06-15 11:35:40,134 INFO stopped: nginx (terminated by SIGTERM)
+2018-06-15 14:27:31,857 CRIT Supervisor running as root (no user in config file)
+2018-06-15 14:27:31,972 INFO RPC interface 'supervisor' initialized
+2018-06-15 14:27:31,973 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-15 14:27:31,974 INFO daemonizing the supervisord process
+2018-06-15 14:27:31,974 INFO set current directory: '/home/quanghung/Desktop/Internship/Ex4'
+2018-06-15 14:27:31,975 INFO supervisord started with pid 4920
+2018-06-15 14:27:32,977 INFO spawned: 'nginx' with pid 4921
+2018-06-15 14:27:32,978 INFO spawned: 'port_5000' with pid 4922
+2018-06-15 14:27:32,980 INFO spawned: 'port_5001' with pid 4923
+2018-06-15 14:27:34,438 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:27:34,438 INFO success: port_5000 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:27:34,438 INFO success: port_5001 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:27:36,481 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:27:37,483 INFO spawned: 'nginx' with pid 4933
+2018-06-15 14:27:38,498 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:27:39,999 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:27:41,001 INFO spawned: 'nginx' with pid 4945
+2018-06-15 14:27:42,011 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:27:43,513 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:27:44,515 INFO spawned: 'nginx' with pid 4946
+2018-06-15 14:27:45,523 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:27:47,024 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:27:48,030 INFO spawned: 'nginx' with pid 4958
+2018-06-15 14:27:49,100 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:27:50,603 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:27:51,608 INFO spawned: 'nginx' with pid 4977
+2018-06-15 14:27:52,626 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:27:54,127 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:27:55,129 INFO spawned: 'nginx' with pid 4999
+2018-06-15 14:27:56,235 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:27:58,236 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:27:59,238 INFO spawned: 'nginx' with pid 5029
+2018-06-15 14:28:00,477 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:28:01,978 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:28:02,980 INFO spawned: 'nginx' with pid 5084
+2018-06-15 14:28:03,982 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:28:06,611 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:28:07,614 INFO spawned: 'nginx' with pid 5093
+2018-06-15 14:28:08,642 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:28:10,144 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:28:11,146 INFO spawned: 'nginx' with pid 5194
+2018-06-15 14:28:12,156 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:28:13,656 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:28:14,659 INFO spawned: 'nginx' with pid 5222
+2018-06-15 14:28:16,090 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:28:18,091 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:28:19,093 INFO spawned: 'nginx' with pid 5244
+2018-06-15 14:28:20,103 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:28:21,604 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:28:22,606 INFO spawned: 'nginx' with pid 5267
+2018-06-15 14:28:23,615 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:28:25,117 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:28:26,119 INFO spawned: 'nginx' with pid 5271
+2018-06-15 14:28:27,134 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:28:28,634 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:28:29,568 INFO spawned: 'nginx' with pid 5277
+2018-06-15 14:28:30,969 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:28:32,470 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:28:33,472 INFO spawned: 'nginx' with pid 5296
+2018-06-15 14:28:34,813 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:28:36,313 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:28:37,316 INFO spawned: 'nginx' with pid 5307
+2018-06-15 14:28:38,453 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:28:39,954 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:28:40,956 INFO spawned: 'nginx' with pid 5308
+2018-06-15 14:28:41,967 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:28:43,468 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:28:44,470 INFO spawned: 'nginx' with pid 5318
+2018-06-15 14:28:45,482 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:28:46,954 INFO waiting for nginx, port_5000, port_5001 to die
+2018-06-15 14:28:46,955 INFO stopped: port_5001 (terminated by SIGTERM)
+2018-06-15 14:28:46,956 INFO stopped: port_5000 (terminated by SIGTERM)
+2018-06-15 14:28:46,957 INFO stopped: nginx (terminated by SIGTERM)
+2018-06-15 14:34:36,705 CRIT Supervisor running as root (no user in config file)
+2018-06-15 14:34:36,904 INFO RPC interface 'supervisor' initialized
+2018-06-15 14:34:36,904 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-15 14:34:36,907 INFO daemonizing the supervisord process
+2018-06-15 14:34:36,907 INFO set current directory: '/home/quanghung/Desktop/Internship/Ex4'
+2018-06-15 14:34:36,922 INFO supervisord started with pid 6497
+2018-06-15 14:34:37,929 INFO spawned: 'nginx' with pid 6501
+2018-06-15 14:34:37,932 INFO spawned: 'port_5000' with pid 6502
+2018-06-15 14:34:37,933 INFO spawned: 'port_5001' with pid 6503
+2018-06-15 14:34:38,942 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:34:38,942 INFO success: port_5000 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:34:38,942 INFO success: port_5001 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:34:40,944 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:34:41,117 INFO spawned: 'nginx' with pid 6516
+2018-06-15 14:34:42,142 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:34:43,645 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:34:44,648 INFO spawned: 'nginx' with pid 6526
+2018-06-15 14:34:45,662 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:34:47,162 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:34:48,165 INFO spawned: 'nginx' with pid 6534
+2018-06-15 14:34:49,177 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:34:50,681 INFO exited: nginx (exit status 1; not expected)
+2018-06-15 14:34:51,683 INFO spawned: 'nginx' with pid 6539
+2018-06-15 14:34:52,693 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-15 14:34:53,355 INFO waiting for nginx, port_5000, port_5001 to die
+2018-06-15 14:34:53,356 INFO stopped: port_5001 (terminated by SIGTERM)
+2018-06-15 14:34:53,358 INFO stopped: port_5000 (terminated by SIGTERM)
+2018-06-15 14:34:53,365 INFO stopped: nginx (terminated by SIGTERM)
+2018-06-19 14:23:55,709 INFO RPC interface 'supervisor' initialized
+2018-06-19 14:23:55,729 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-19 14:23:55,730 INFO daemonizing the supervisord process
+2018-06-19 14:23:55,730 INFO set current directory: '/home/quanghung/Desktop/Internship/Ex4'
+2018-06-19 14:23:55,730 INFO supervisord started with pid 5979
+2018-06-19 14:23:56,733 INFO spawned: 'nginx' with pid 5980
+2018-06-19 14:23:56,734 INFO spawned: 'port_5000' with pid 5981
+2018-06-19 14:23:56,736 INFO spawned: 'port_5001' with pid 5982
+2018-06-19 14:23:56,741 INFO exited: port_5001 (exit status 127; not expected)
+2018-06-19 14:23:56,742 INFO exited: port_5000 (exit status 127; not expected)
+2018-06-19 14:23:57,002 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:23:58,005 INFO spawned: 'nginx' with pid 5983
+2018-06-19 14:23:58,008 INFO spawned: 'port_5000' with pid 5984
+2018-06-19 14:23:58,011 INFO spawned: 'port_5001' with pid 5985
+2018-06-19 14:23:58,016 INFO exited: port_5000 (exit status 127; not expected)
+2018-06-19 14:23:58,016 INFO exited: port_5001 (exit status 127; not expected)
+2018-06-19 14:23:58,019 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:24:00,023 INFO spawned: 'nginx' with pid 5994
+2018-06-19 14:24:00,025 INFO spawned: 'port_5000' with pid 5995
+2018-06-19 14:24:00,027 INFO spawned: 'port_5001' with pid 5996
+2018-06-19 14:24:00,032 INFO exited: port_5000 (exit status 127; not expected)
+2018-06-19 14:24:00,033 INFO exited: port_5001 (exit status 127; not expected)
+2018-06-19 14:24:00,039 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:24:03,045 INFO spawned: 'nginx' with pid 5997
+2018-06-19 14:24:03,048 INFO spawned: 'port_5000' with pid 5998
+2018-06-19 14:24:03,051 INFO spawned: 'port_5001' with pid 5999
+2018-06-19 14:24:03,055 INFO exited: port_5000 (exit status 127; not expected)
+2018-06-19 14:24:03,056 INFO gave up: port_5000 entered FATAL state, too many start retries too quickly
+2018-06-19 14:24:03,056 INFO exited: port_5001 (exit status 127; not expected)
+2018-06-19 14:24:03,057 INFO gave up: port_5001 entered FATAL state, too many start retries too quickly
+2018-06-19 14:24:03,060 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:24:03,609 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2018-06-19 14:24:23,376 CRIT Supervisor running as root (no user in config file)
+2018-06-19 14:24:23,382 INFO RPC interface 'supervisor' initialized
+2018-06-19 14:24:23,382 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-19 14:24:23,382 INFO daemonizing the supervisord process
+2018-06-19 14:24:23,383 INFO set current directory: '/home/quanghung/Desktop/Internship/Ex4'
+2018-06-19 14:24:23,384 INFO supervisord started with pid 6039
+2018-06-19 14:24:24,387 INFO spawned: 'nginx' with pid 6040
+2018-06-19 14:24:24,390 INFO spawned: 'port_5000' with pid 6041
+2018-06-19 14:24:24,391 INFO spawned: 'port_5001' with pid 6042
+2018-06-19 14:24:25,403 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:24:25,403 INFO success: port_5000 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:24:25,403 INFO success: port_5001 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:24:26,904 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:24:27,907 INFO spawned: 'nginx' with pid 6054
+2018-06-19 14:24:28,921 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:24:30,423 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:24:30,715 INFO spawned: 'nginx' with pid 6067
+2018-06-19 14:24:31,724 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:24:33,226 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:24:34,228 INFO spawned: 'nginx' with pid 6071
+2018-06-19 14:24:35,239 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:24:36,739 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:24:37,742 INFO spawned: 'nginx' with pid 6087
+2018-06-19 14:24:38,754 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:24:40,256 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:24:41,259 INFO spawned: 'nginx' with pid 6148
+2018-06-19 14:24:42,277 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:24:43,778 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:24:44,780 INFO spawned: 'nginx' with pid 6173
+2018-06-19 14:24:45,816 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:24:47,318 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:24:48,320 INFO spawned: 'nginx' with pid 6184
+2018-06-19 14:24:49,329 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:24:50,830 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:24:51,833 INFO spawned: 'nginx' with pid 6188
+2018-06-19 14:24:52,956 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:24:54,458 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:24:54,939 INFO spawned: 'nginx' with pid 6196
+2018-06-19 14:24:56,172 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:24:57,672 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:24:58,674 INFO spawned: 'nginx' with pid 6198
+2018-06-19 14:24:59,719 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:25:01,221 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:25:02,224 INFO spawned: 'nginx' with pid 6213
+2018-06-19 14:25:03,238 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:25:04,739 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:25:05,741 INFO spawned: 'nginx' with pid 6225
+2018-06-19 14:25:06,751 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:25:08,252 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:25:09,255 INFO spawned: 'nginx' with pid 6232
+2018-06-19 14:25:10,267 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:25:11,768 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:25:12,770 INFO spawned: 'nginx' with pid 6244
+2018-06-19 14:25:13,779 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:25:15,280 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:25:16,283 INFO spawned: 'nginx' with pid 6255
+2018-06-19 14:25:17,298 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:25:18,800 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:25:19,802 INFO spawned: 'nginx' with pid 6260
+2018-06-19 14:25:20,818 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:25:22,319 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:25:23,324 INFO spawned: 'nginx' with pid 6281
+2018-06-19 14:25:24,342 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:25:25,843 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:25:26,845 INFO spawned: 'nginx' with pid 6288
+2018-06-19 14:25:27,853 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:25:29,355 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:25:30,359 INFO spawned: 'nginx' with pid 6299
+2018-06-19 14:25:31,370 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:25:32,873 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:25:33,875 INFO spawned: 'nginx' with pid 6308
+2018-06-19 14:25:34,889 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:25:36,391 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:25:37,394 INFO spawned: 'nginx' with pid 6312
+2018-06-19 14:25:38,408 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:25:39,909 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:25:40,912 INFO spawned: 'nginx' with pid 6322
+2018-06-19 14:25:41,927 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:25:43,429 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:25:44,432 INFO spawned: 'nginx' with pid 6331
+2018-06-19 14:25:45,444 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:25:46,946 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:25:47,949 INFO spawned: 'nginx' with pid 6332
+2018-06-19 14:25:48,965 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:25:50,466 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:25:51,469 INFO spawned: 'nginx' with pid 6343
+2018-06-19 14:25:52,483 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:25:53,985 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:25:54,989 INFO spawned: 'nginx' with pid 6355
+2018-06-19 14:25:56,003 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:25:57,504 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:25:58,506 INFO spawned: 'nginx' with pid 6361
+2018-06-19 14:25:59,518 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:26:01,019 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:26:02,022 INFO spawned: 'nginx' with pid 6370
+2018-06-19 14:26:03,034 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:26:04,535 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:26:05,539 INFO spawned: 'nginx' with pid 6383
+2018-06-19 14:26:06,553 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:26:08,055 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:26:09,058 INFO spawned: 'nginx' with pid 6392
+2018-06-19 14:26:10,071 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:26:10,182 INFO waiting for nginx, port_5000, port_5001 to die
+2018-06-19 14:26:10,183 INFO stopped: port_5001 (terminated by SIGTERM)
+2018-06-19 14:26:10,186 INFO stopped: port_5000 (terminated by SIGTERM)
+2018-06-19 14:26:10,187 INFO stopped: nginx (terminated by SIGTERM)
+2018-06-19 14:29:04,741 CRIT Supervisor running as root (no user in config file)
+2018-06-19 14:29:04,751 INFO RPC interface 'supervisor' initialized
+2018-06-19 14:29:04,751 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-19 14:29:04,752 INFO daemonizing the supervisord process
+2018-06-19 14:29:04,752 INFO set current directory: '/home/quanghung/Desktop/Internship/Ex4'
+2018-06-19 14:29:04,752 INFO supervisord started with pid 6538
+2018-06-19 14:29:05,755 INFO spawned: 'nginx' with pid 6539
+2018-06-19 14:29:05,758 INFO spawned: 'port_5000' with pid 6540
+2018-06-19 14:29:05,762 INFO spawned: 'port_5001' with pid 6541
+2018-06-19 14:29:05,817 INFO exited: nginx (exit status 0; not expected)
+2018-06-19 14:29:06,948 INFO spawned: 'nginx' with pid 6557
+2018-06-19 14:29:06,948 INFO success: port_5000 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:29:06,949 INFO success: port_5001 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:29:07,961 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:29:09,464 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:29:10,467 INFO spawned: 'nginx' with pid 6564
+2018-06-19 14:29:11,494 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:29:12,997 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:29:14,001 INFO spawned: 'nginx' with pid 6579
+2018-06-19 14:29:15,140 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:29:16,642 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:29:17,645 INFO spawned: 'nginx' with pid 6593
+2018-06-19 14:29:18,657 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:29:20,161 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:29:21,165 INFO spawned: 'nginx' with pid 6599
+2018-06-19 14:29:22,187 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:29:23,688 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:29:24,690 INFO spawned: 'nginx' with pid 6604
+2018-06-19 14:29:25,702 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:29:27,205 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:29:28,209 INFO spawned: 'nginx' with pid 6624
+2018-06-19 14:29:29,230 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:29:30,733 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:29:31,736 INFO spawned: 'nginx' with pid 6645
+2018-06-19 14:29:32,754 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:29:34,258 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:29:35,261 INFO spawned: 'nginx' with pid 6648
+2018-06-19 14:29:36,283 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:29:37,785 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:29:38,787 INFO spawned: 'nginx' with pid 6658
+2018-06-19 14:29:39,800 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:29:41,302 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:29:42,305 INFO spawned: 'nginx' with pid 6668
+2018-06-19 14:29:43,324 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:29:44,827 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:29:45,830 INFO spawned: 'nginx' with pid 6678
+2018-06-19 14:29:46,847 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:29:48,351 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:29:49,356 INFO spawned: 'nginx' with pid 6680
+2018-06-19 14:29:50,371 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:29:51,874 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:29:52,877 INFO spawned: 'nginx' with pid 6690
+2018-06-19 14:29:53,894 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:29:55,397 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:29:56,401 INFO spawned: 'nginx' with pid 6700
+2018-06-19 14:29:57,419 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:29:58,922 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:29:59,926 INFO spawned: 'nginx' with pid 6702
+2018-06-19 14:30:00,945 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:30:02,452 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:30:03,455 INFO spawned: 'nginx' with pid 6712
+2018-06-19 14:30:04,469 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:30:05,972 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:30:06,974 INFO spawned: 'nginx' with pid 6727
+2018-06-19 14:30:07,993 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:30:09,496 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:30:10,499 INFO spawned: 'nginx' with pid 6736
+2018-06-19 14:30:11,518 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:30:13,021 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:30:14,024 INFO spawned: 'nginx' with pid 6738
+2018-06-19 14:30:15,041 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:30:16,545 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:30:17,547 INFO spawned: 'nginx' with pid 6741
+2018-06-19 14:30:18,567 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:30:20,070 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:30:21,074 INFO spawned: 'nginx' with pid 6743
+2018-06-19 14:30:22,096 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:30:23,597 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:30:24,599 INFO spawned: 'nginx' with pid 6745
+2018-06-19 14:30:25,612 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:30:27,115 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:30:28,119 INFO spawned: 'nginx' with pid 6748
+2018-06-19 14:30:29,139 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:30:30,640 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:30:31,642 INFO spawned: 'nginx' with pid 6750
+2018-06-19 14:30:32,654 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:30:34,157 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:30:35,161 INFO spawned: 'nginx' with pid 6752
+2018-06-19 14:30:36,181 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:30:37,682 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:30:38,684 INFO spawned: 'nginx' with pid 6754
+2018-06-19 14:30:39,695 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:30:41,199 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:30:42,202 INFO spawned: 'nginx' with pid 6765
+2018-06-19 14:30:43,252 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:30:44,755 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:30:45,757 INFO spawned: 'nginx' with pid 6767
+2018-06-19 14:30:46,776 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:30:48,280 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:30:49,284 INFO spawned: 'nginx' with pid 6769
+2018-06-19 14:30:50,304 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:30:51,807 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:30:52,809 INFO spawned: 'nginx' with pid 6771
+2018-06-19 14:30:53,823 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:30:55,327 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:30:56,331 INFO spawned: 'nginx' with pid 6779
+2018-06-19 14:30:57,350 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:30:58,854 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:30:59,857 INFO spawned: 'nginx' with pid 6782
+2018-06-19 14:31:00,879 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:31:02,383 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:31:03,387 INFO spawned: 'nginx' with pid 6784
+2018-06-19 14:31:04,405 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:31:05,909 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:31:06,912 INFO spawned: 'nginx' with pid 6789
+2018-06-19 14:31:07,930 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:31:09,433 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:31:10,437 INFO spawned: 'nginx' with pid 6797
+2018-06-19 14:31:11,453 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:31:12,956 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:31:13,959 INFO spawned: 'nginx' with pid 6799
+2018-06-19 14:31:14,978 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:31:16,481 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:31:17,484 INFO spawned: 'nginx' with pid 6801
+2018-06-19 14:31:18,501 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:31:20,004 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:31:21,008 INFO spawned: 'nginx' with pid 6803
+2018-06-19 14:31:22,027 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:31:23,531 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:31:24,534 INFO spawned: 'nginx' with pid 6805
+2018-06-19 14:31:25,551 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:31:27,056 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:31:28,058 INFO spawned: 'nginx' with pid 6807
+2018-06-19 14:31:29,071 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:31:30,574 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:31:31,578 INFO spawned: 'nginx' with pid 6809
+2018-06-19 14:31:32,591 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:31:34,093 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:31:35,096 INFO spawned: 'nginx' with pid 6811
+2018-06-19 14:31:36,113 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:31:37,615 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:31:38,617 INFO spawned: 'nginx' with pid 6813
+2018-06-19 14:31:39,627 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:31:41,131 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:31:42,135 INFO spawned: 'nginx' with pid 6815
+2018-06-19 14:31:43,154 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:31:44,655 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:31:45,657 INFO spawned: 'nginx' with pid 6818
+2018-06-19 14:31:46,669 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:31:48,172 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:31:49,176 INFO spawned: 'nginx' with pid 6821
+2018-06-19 14:31:50,194 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:31:51,695 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:31:52,697 INFO spawned: 'nginx' with pid 6823
+2018-06-19 14:31:53,710 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:31:55,213 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:31:56,217 INFO spawned: 'nginx' with pid 6827
+2018-06-19 14:31:57,235 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:31:58,736 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:31:59,738 INFO spawned: 'nginx' with pid 6829
+2018-06-19 14:32:00,751 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:32:02,253 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:32:03,255 INFO spawned: 'nginx' with pid 6864
+2018-06-19 14:32:04,271 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:32:06,023 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:32:07,084 INFO spawned: 'nginx' with pid 6871
+2018-06-19 14:32:08,214 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:32:10,734 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:32:11,736 INFO spawned: 'nginx' with pid 6918
+2018-06-19 14:32:12,747 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:32:14,248 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:32:15,251 INFO spawned: 'nginx' with pid 6926
+2018-06-19 14:32:16,269 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:32:17,771 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:32:18,773 INFO spawned: 'nginx' with pid 6929
+2018-06-19 14:32:19,791 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:32:21,292 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:32:22,294 INFO spawned: 'nginx' with pid 6931
+2018-06-19 14:32:23,306 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:32:24,809 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:32:25,811 INFO spawned: 'nginx' with pid 6933
+2018-06-19 14:32:26,844 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:32:28,347 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:32:29,363 INFO spawned: 'nginx' with pid 6946
+2018-06-19 14:32:30,446 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:32:31,948 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:32:32,952 INFO spawned: 'nginx' with pid 6949
+2018-06-19 14:32:33,971 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:32:35,473 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:32:36,475 INFO spawned: 'nginx' with pid 6957
+2018-06-19 14:32:37,734 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:32:39,236 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:32:40,237 INFO spawned: 'nginx' with pid 6994
+2018-06-19 14:32:41,253 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:32:42,754 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:32:43,757 INFO spawned: 'nginx' with pid 6997
+2018-06-19 14:32:44,778 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:32:46,280 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:32:47,283 INFO spawned: 'nginx' with pid 6999
+2018-06-19 14:32:48,302 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:32:49,806 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:32:50,810 INFO spawned: 'nginx' with pid 7001
+2018-06-19 14:32:51,830 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:32:53,333 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:32:54,336 INFO spawned: 'nginx' with pid 7007
+2018-06-19 14:32:55,353 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:32:56,857 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:32:57,859 INFO spawned: 'nginx' with pid 7012
+2018-06-19 14:32:58,873 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:33:00,376 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:33:01,380 INFO spawned: 'nginx' with pid 7016
+2018-06-19 14:33:02,400 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:33:03,901 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:33:04,903 INFO spawned: 'nginx' with pid 7022
+2018-06-19 14:33:05,920 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:33:07,422 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:33:08,424 INFO spawned: 'nginx' with pid 7033
+2018-06-19 14:33:09,438 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:33:10,798 INFO waiting for nginx, port_5000, port_5001 to die
+2018-06-19 14:33:10,799 INFO stopped: port_5001 (terminated by SIGTERM)
+2018-06-19 14:33:10,801 INFO stopped: port_5000 (terminated by SIGTERM)
+2018-06-19 14:33:10,803 INFO stopped: nginx (terminated by SIGTERM)
+2018-06-19 14:34:13,857 CRIT Supervisor running as root (no user in config file)
+2018-06-19 14:34:14,049 INFO RPC interface 'supervisor' initialized
+2018-06-19 14:34:14,049 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-06-19 14:34:14,110 INFO daemonizing the supervisord process
+2018-06-19 14:34:14,110 INFO set current directory: '/home/quanghung/Desktop/Internship/Ex4'
+2018-06-19 14:34:14,110 INFO supervisord started with pid 7085
+2018-06-19 14:34:15,112 INFO spawned: 'nginx' with pid 7086
+2018-06-19 14:34:15,114 INFO spawned: 'port_5000' with pid 7087
+2018-06-19 14:34:15,115 INFO spawned: 'port_5001' with pid 7088
+2018-06-19 14:34:16,117 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:34:16,117 INFO success: port_5000 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:34:16,117 INFO success: port_5001 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:34:20,413 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:34:21,416 INFO spawned: 'nginx' with pid 7112
+2018-06-19 14:34:22,433 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:34:23,934 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:34:24,560 INFO spawned: 'nginx' with pid 7115
+2018-06-19 14:34:25,578 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:34:27,081 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:34:28,083 INFO spawned: 'nginx' with pid 7130
+2018-06-19 14:34:29,428 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:34:30,929 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:34:31,932 INFO spawned: 'nginx' with pid 7140
+2018-06-19 14:34:32,945 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:34:34,447 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:34:35,450 INFO spawned: 'nginx' with pid 7145
+2018-06-19 14:34:36,466 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:34:37,969 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:34:38,971 INFO spawned: 'nginx' with pid 7155
+2018-06-19 14:34:40,177 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:34:41,678 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:34:42,681 INFO spawned: 'nginx' with pid 7171
+2018-06-19 14:34:43,700 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:34:45,202 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:34:46,206 INFO spawned: 'nginx' with pid 7173
+2018-06-19 14:34:47,446 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:34:48,950 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:34:49,953 INFO spawned: 'nginx' with pid 7189
+2018-06-19 14:34:50,970 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:34:52,472 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:34:53,474 INFO spawned: 'nginx' with pid 7202
+2018-06-19 14:34:54,492 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:34:55,994 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:34:56,997 INFO spawned: 'nginx' with pid 7206
+2018-06-19 14:34:58,018 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:34:59,520 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:35:00,523 INFO spawned: 'nginx' with pid 7215
+2018-06-19 14:35:01,566 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-19 14:35:03,068 INFO exited: nginx (exit status 1; not expected)
+2018-06-19 14:35:03,983 INFO spawned: 'nginx' with pid 7227
+2018-06-19 14:35:03,994 INFO waiting for nginx, port_5000, port_5001 to die
+2018-06-19 14:35:03,994 INFO stopped: port_5001 (terminated by SIGTERM)
+2018-06-19 14:35:03,997 INFO stopped: port_5000 (terminated by SIGTERM)
+2018-06-19 14:35:03,999 INFO stopped: nginx (terminated by SIGTERM)
