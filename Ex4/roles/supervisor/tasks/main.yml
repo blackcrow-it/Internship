@@ -9,10 +9,11 @@
     - supervisor-wildcards
 
 - name: create supervisor.conf start
-  template: src=supervisor.conf dest=/etc/supervisor/conf.d/
+  template: src=start.conf dest=/etc/supervisor/conf.d/
 
 - name: add service supervisor
-  shell: supervisorctl reread
+  shell: supervisorctl reload
 
 - name: update service supervisor
   shell: supervisorctl update
+  notify: restart supervisor

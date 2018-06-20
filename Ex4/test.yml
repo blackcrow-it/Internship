@@ -3,9 +3,13 @@
   become: yes
 
   tasks:
+  - name: Creates directory2
+    file:
+      path: /opt/count-user
+      state: directory
   - name: Creates directory
     file:
-      path: /tmp/hello
+      path: /opt/count-user/templates
       state: directory
 
   # handlers:

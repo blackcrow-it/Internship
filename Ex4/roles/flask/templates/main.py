@@ -9,12 +9,13 @@ def main():
     user_agent = request.headers.get('User-Agent')
     time_now = strftime("%Y-%m-%d", gmtime())
     redis.pfadd(time_now, user_agent)
-    count_ua = redis.pfcount('user')
+    count_ua = redis.pfcount(time_now)
+    print count_ua,type(count_ua)
     print time_now
-    print 'Count user-agent: {}'.format(count_ua)
-    # print user_agent
+    # print 'Count user-agent: {}'.format(str(count_ua))
+    print user_agent
     return render_template('/index.html')
-    # return 'Hello'
+    # return str(count_ua)
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)

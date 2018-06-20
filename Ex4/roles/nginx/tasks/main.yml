@@ -1,8 +1,11 @@
 ---
 - name: Installs nginx web server
   apt: pkg=nginx state=installed update_cache=true
-  notify:
-    - start nginx
+  # notify: start nginx
 
 - name: copy file nginx.conf
-  template: src=nginx.conf dest=/tmp
+  template: src=nginx.conf dest=/etc/nginx/nginx.conf
+
+# - name: restart nginx
+#   shell: supervisorctl restart nginx
+#   become: yes
