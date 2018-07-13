@@ -30,7 +30,13 @@ def post():
         # return render_template('/index.html')
         return u'GET requests\n'
     elif request.method == "POST":
-        cur.execute('INSERT INTO user(email, name, date) VALUES ("{}","{}","{}")'.format("quanghungleo@gmail.com","asdsad","11/02/2018"))
+        request_json = request.get_json()
+        print(request.get_json())
+        email = request_json.get('email')
+        name = request_json.get('name')
+        date = request_json.get('date')
+        print email
+        cur.execute('INSERT INTO user(email, name, date) VALUES ("{}","{}","{}")'.format(email,name,date))
         con.commit()
         con.close()
         return "POST requests\n"
@@ -55,8 +61,10 @@ def handle(email):
         rows = sql_select(email)
         print len(rows)
         if len(rows) > 0:
-            name = "bgfbbrt"
-            date = "30/10/2018"
+            request_json = request.get_json()
+            print(request.get_json())
+            name = request_json.get('name')
+            date = request_json.get('date')
             cur.execute('UPDATE user SET name = "{}", date = "{}" WHERE email = "{}" '.format(name,date,email))
             con.commit()
             con.close()
