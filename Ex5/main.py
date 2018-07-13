@@ -11,6 +11,5 @@ with open(filelog) as f:
     count_ssl_protocol = len(list(set(list_ssl_protocol)))
     ratio = float(count_ssl_protocol) / float(count_ssl_cipher)
     print str(int(ratio*100))+"%"
-    # for k in list(set(ssl_cipher)):
-    #     count_sc = ssl_cipher.count(k)
+
   
