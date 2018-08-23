@@ -1,0 +1,4 @@
+@celery.task
+def my_background_task(arg1, arg2):
+    # some long running task here
+    return result

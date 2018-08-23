@@ -1,0 +1,45 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Hello from me
+From: quanghungleo@gmail.com
+To: ngochai@gmail.com
+Date: Tue, 31 Jul 2018 14:46:50 +0700
+Message-ID: <153302321056.12337.6955891003656753300@quanghung-Latitude-E6440>
+
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Hello from me
+From: quanghungleo@gmail.com
+To: haibt31@gmail.com
+Date: Tue, 31 Jul 2018 14:48:13 +0700
+Message-ID: <153302329398.12461.335827552888516566@quanghung-Latitude-E6440>
+
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Hello from me
+From: quanghungleo@gmail.com
+To: haibt31@gmail.com
+Date: Tue, 31 Jul 2018 14:59:02 +0700
+Message-ID: <153302394276.13218.13114984487526333065@quanghung-Latitude-E6440>
+
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Hello from me
+From: quanghungleo@gmail.com
+To: haibt31@gmail.com
+Date: Tue, 31 Jul 2018 14:59:15 +0700
+Message-ID: <153302395579.13218.17195095269638437416@quanghung-Latitude-E6440>
+
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Hello from me
+From: quanghungleo@gmail.com
+To: haibt31@gmail.com
+Date: Mon, 20 Aug 2018 14:26:23 +0700
+Message-ID: <153474998372.3153.5444700377125221306@quanghung-Latitude-E6440>
+
