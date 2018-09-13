@@ -1,5 +1,5 @@
 import httpagentparser
-filepath = 'gistfile1.txt'
+filepath = '/home/quanghung/Desktop/Internship/Day 9 - Project/gistfile1.txt'
 list_browser = []
 dict_browser = {}
 with open(filepath) as fp:  
@@ -15,5 +15,5 @@ with open(filepath) as fp:
 		sum_browser = len(list_browser)
 		scale = (count_browser/sum_browser)*100
 		dict_browser[j] = str(round(scale,2)) + " %"
-		print j + ':' + ' ' + str(round(scale,2)) + " %"
-	# print dict_browser
+		# print j + ':' + ' ' + str(round(scale,2)) + " %"
+	print dict_browser

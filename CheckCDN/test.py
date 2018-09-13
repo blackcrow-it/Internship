@@ -1,28 +1,27 @@
-import os
 import requests
-import scrapy
-from flask import Flask, render_template, send_from_directory, request
-
-app = Flask(__name__)
-@app.route('/')
-def hello_world():
-    return render_template('index.html')
-    # return r.headers.get('server')
-    
-@app.route('/', methods=['POST'])
-def my_form_post():
-    text = request.form['link']
-    r = requests.get(text)
-    result = r.headers.get('server')
-    if int(result.find('nginx')) < 0:
-        return render_template('index.html', check=result, link=text)
-    else:
-        return render_template('index.html', check='None', link=text)
-
-
-@app.route('/static/<path:filename>')
-def public_files(filename):
-    return send_from_directory('static', filename)
-
-if __name__ == '__main__':
-   app.run()
+def get_link(type1 , type2, link_resources, list_link):
+    i = 0
+    for y in link_resources:
+        if (type1 in y or type2 in y):
+            bool_http = y.find('http://') >= 0
+            bool_https = y.find('https://') >= 0
+            bool_htm = y.find('.htm') < 0
+            if (bool_https == True or bool_http == True):
+                list_link.append(y)
+            i += 1
+            if i >= 5:
+                break
+def get_cdn(list_link, list_cdn):
+    for z in list_link:
+        z_page = requests.get(z)
+        z_tree = z_page.headers.get('server') 
+        list_cdn.append(z_tree)
+def get_result(list_cdn, list_result, list_server):
+    for a in list_cdn:
+        if a not in list_server:
+            list_result.append(a)
+def format_cdn(list_cdn):
+    dict_format = {'cloudflare': 'Cloud Flare CDN', 'NetDNA-cache/2.2': 'MaxCDN', "yunjiasu": "Yunjiasu", "ECS": "Edgecast", "NetDNA": "NetDNA"}
+    for key, value in dict_format.items():
+        list_cdn = [x.replace(key, value) for x in list_cdn]
+    return list_cdn

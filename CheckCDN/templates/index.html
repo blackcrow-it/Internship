@@ -34,7 +34,7 @@
 					</span>
 
 					<div class="wrap-input3 validate-input" data-validate="Link is required">
-						<input class="input3" type="link" name="link" placeholder="Link web" required>
+						<input class="input3" type="url" name="link" placeholder="https://example.com" required>
 						<span class="focus-input3"></span>
 					</div>
 
@@ -45,8 +45,13 @@
 					</div>
 				</form>
 				<br>
-				<div>List CDN: </div>
-				{% for cdn in check %}
+				<div class="error">{{ check_error }}</div>
+				<div>List CDN Image: </div>
+				{% for cdn in check_img %}
+				<div>{{ cdn }}</div>
+				{% endfor %}
+				<div>List CDN CSS & JS: </div>
+				{% for cdn in check_css_js %}
 				<div>{{ cdn }}</div>
 				{% endfor %}
 			</div>
